@@ -1,0 +1,8 @@
+language: julia
+julia:
+  - release
+  - 0.4
+  - 0.3
+sudo: True 
+install: ./install
+script: ./tests/tests

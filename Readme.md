@@ -1,6 +1,8 @@
 # FastViz.jl: A command-line interface in Julia to practical data visualization
 <span style="float:right">v.0.2.0</span>
-[![Join the chat at https://gitter.im/dmoliveira/My-Data-Science-Toolbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dmoliveira/My-Data-Science-Toolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at hhttps://gitter.im/dmoliveira/fastviz.jl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dmoliveira/fastviz.jl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/dmoliveira/fastviz.jl.svg)](https://travis-ci.org/dmoliveira/fastviz.jl)
+[![GitHub version](https://badge.fury.io/gh/https%3A%2F%2Fgithub.com%2Fdmoliveira%2Ffastviz.jl.svg)](http://badge.fury.io/gh/dmoliveira%2Ffastviz.jl)
 
 ## 1. Introduction
 `FastViz.jl` is a practical solution to plot simple and beautiful graphs at command-line. It was built entirely on [Julia language](http://julialang.org/) and uses [Gadfly](http://dcjones.github.io/Gadfly.jl/) package. I suggest to use with others powerful tools like `CSVKit` and `jq` as an input source to generate the graphs on-the-fly.
