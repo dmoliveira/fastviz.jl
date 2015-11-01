@@ -1,5 +1,4 @@
 # FastViz.jl: A command-line interface in Julia to practical data visualization
-<span style="float:right">v.0.2.0</span>
 [![Join the chat at hhttps://gitter.im/dmoliveira/fastviz.jl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dmoliveira/fastviz.jl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/dmoliveira/fastviz.jl.svg)](https://travis-ci.org/dmoliveira/fastviz.jl)
 [![GitHub version](https://badge.fury.io/gh/https%3A%2F%2Fgithub.com%2Fdmoliveira%2Ffastviz.jl.svg)](http://badge.fury.io/gh/dmoliveira%2Ffastviz.jl)
